@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>About TaskLens</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="Analyzing" xml:space="preserve">
+    <value>Analyzing your PC locally…</value>
+  </data>
+  <data name="AnonymizeDefault" xml:space="preserve">
+    <value>Anonymize reports by default</value>
+  </data>
+  <data name="AnonymizedReport" xml:space="preserve">
+    <value>Anonymized report</value>
+  </data>
+  <data name="Background" xml:space="preserve">
+    <value>Background</value>
+  </data>
+  <data name="BrowserHistory" xml:space="preserve">
+    <value>Browser history</value>
+  </data>
+  <data name="Busy" xml:space="preserve">
+    <value>Busy</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="Command" xml:space="preserve">
+    <value>Command</value>
+  </data>
+  <data name="Copied" xml:space="preserve">
+    <value>Process details copied.</value>
+  </data>
+  <data name="CopyDetails" xml:space="preserve">
+    <value>Copy details</value>
+  </data>
+  <data name="CpuReason" xml:space="preserve">
+    <value>Processor activity is elevated. {0} is currently the busiest process.</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Critical Windows process</value>
+  </data>
+  <data name="CriticalBlocked" xml:space="preserve">
+    <value>TaskLens will not end critical Windows processes.</value>
+  </data>
+  <data name="Csv" xml:space="preserve">
+    <value>Export CSV</value>
+  </data>
+  <data name="Dark" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="DataType" xml:space="preserve">
+    <value>Data type</value>
+  </data>
+  <data name="DeleteFailed" xml:space="preserve">
+    <value>Some local reports could not be deleted.</value>
+  </data>
+  <data name="DeleteReports" xml:space="preserve">
+    <value>Delete local reports</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Details</value>
+  </data>
+  <data name="Disk" xml:space="preserve">
+    <value>Disk activity</value>
+  </data>
+  <data name="EndFailed" xml:space="preserve">
+    <value>The process could not be ended. It may have already exited or require administrator permission.</value>
+  </data>
+  <data name="EndProcess" xml:space="preserve">
+    <value>End process</value>
+  </data>
+  <data name="EndWarning" xml:space="preserve">
+    <value>I understand this may close the application or cause unsaved work to be lost.</value>
+  </data>
+  <data name="Explanation" xml:space="preserve">
+    <value>What is this?</value>
+  </data>
+  <data name="ExportFailed" xml:space="preserve">
+    <value>The report could not be created.</value>
+  </data>
+  <data name="ExportPrivacy" xml:space="preserve">
+    <value>Export privacy statement</value>
+  </data>
+  <data name="Generated" xml:space="preserve">
+    <value>Generated</value>
+  </data>
+  <data name="Glass" xml:space="preserve">
+    <value>Enable glass effect</value>
+  </data>
+  <data name="Growing" xml:space="preserve">
+    <value>Growing memory usage</value>
+  </data>
+  <data name="Heavy" xml:space="preserve">
+    <value>Heavy usage</value>
+  </data>
+  <data name="High" xml:space="preserve">
+    <value>High</value>
+  </data>
+  <data name="HighUsage" xml:space="preserve">
+    <value>High resource usage</value>
+  </data>
+  <data name="Html" xml:space="preserve">
+    <value>Generate HTML</value>
+  </data>
+  <data name="Impact" xml:space="preserve">
+    <value>Estimated impact</value>
+  </data>
+  <data name="Indicators" xml:space="preserve">
+    <value>Review indicators</value>
+  </data>
+  <data name="Insights" xml:space="preserve">
+    <value>Resource insights</value>
+  </data>
+  <data name="Items" xml:space="preserve">
+    <value>items</value>
+  </data>
+  <data name="Json" xml:space="preserve">
+    <value>Export JSON</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Light" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="Limitations" xml:space="preserve">
+    <value>TaskLens is not an antivirus and cannot guarantee a process is safe. Findings are local, point-in-time guidance.</value>
+  </data>
+  <data name="LimitationsTitle" xml:space="preserve">
+    <value>Limitations</value>
+  </data>
+  <data name="LocalOnly" xml:space="preserve">
+    <value>Local only</value>
+  </data>
+  <data name="LocalReportNote" xml:space="preserve">
+    <value>Local report; no data was transmitted.</value>
+  </data>
+  <data name="LongRunning" xml:space="preserve">
+    <value>Long-running processes</value>
+  </data>
+  <data name="Lookalike" xml:space="preserve">
+    <value>Windows-like name in an unusual location</value>
+  </data>
+  <data name="Low" xml:space="preserve">
+    <value>Low</value>
+  </data>
+  <data name="MainReason" xml:space="preserve">
+    <value>Main reason your PC may feel slow</value>
+  </data>
+  <data name="MarkReviewed" xml:space="preserve">
+    <value>Mark as reviewed</value>
+  </data>
+  <data name="MarkedReviewed" xml:space="preserve">
+    <value>Item marked as reviewed.</value>
+  </data>
+  <data name="Medium" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="Memory" xml:space="preserve">
+    <value>Memory usage</value>
+  </data>
+  <data name="MemoryGrowth" xml:space="preserve">
+    <value>Possible memory leak indicator</value>
+  </data>
+  <data name="MemoryReason" xml:space="preserve">
+    <value>Memory use is elevated. The process using the most memory is {0}.</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="NeedsAttention" xml:space="preserve">
+    <value>Needs attention</value>
+  </data>
+  <data name="NeedsReview" xml:space="preserve">
+    <value>Processes needing review</value>
+  </data>
+  <data name="Network" xml:space="preserve">
+    <value>Network activity</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>No data is available yet. Start an analysis first.</value>
+  </data>
+  <data name="NoIssue" xml:space="preserve">
+    <value>No major performance issue detected.</value>
+  </data>
+  <data name="NoReview" xml:space="preserve">
+    <value>No processes currently need review.</value>
+  </data>
+  <data name="Normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="NotRecommended" xml:space="preserve">
+    <value>Not recommended</value>
+  </data>
+  <data name="Offline" xml:space="preserve">
+    <value>Offline mode is active. TaskLens contains no network upload or telemetry code.</value>
+  </data>
+  <data name="OfflineLabel" xml:space="preserve">
+    <value>OFFLINE</value>
+  </data>
+  <data name="OpenFailed" xml:space="preserve">
+    <value>The requested Windows page could not be opened.</value>
+  </data>
+  <data name="OpenLocation" xml:space="preserve">
+    <value>Open file location</value>
+  </data>
+  <data name="OpenReportFolder" xml:space="preserve">
+    <value>Open report folder</value>
+  </data>
+  <data name="OpenStartupSettings" xml:space="preserve">
+    <value>Open Windows Startup Apps</value>
+  </data>
+  <data name="OpenTaskManager" xml:space="preserve">
+    <value>Open in Task Manager</value>
+  </data>
+  <data name="Parent" xml:space="preserve">
+    <value>Parent process ID</value>
+  </data>
+  <data name="Passwords" xml:space="preserve">
+    <value>Passwords</value>
+  </data>
+  <data name="Path" xml:space="preserve">
+    <value>File path</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>PC performance</value>
+  </data>
+  <data name="PersonalFiles" xml:space="preserve">
+    <value>Personal files</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>All analysis is performed locally. No process data leaves this device.</value>
+  </data>
+  <data name="PrivacyCenter" xml:space="preserve">
+    <value>Privacy center</value>
+  </data>
+  <data name="PrivacyDetails" xml:space="preserve">
+    <value>Privacy details</value>
+  </data>
+  <data name="ProcessList" xml:space="preserve">
+    <value>Running process list</value>
+  </data>
+  <data name="Process_Generic" xml:space="preserve">
+    <value>This process is not in the built-in explanation library. Review its publisher, location, signature and resource use for context.</value>
+  </data>
+  <data name="Process_battle.net" xml:space="preserve">
+    <value>Battle.net manages Blizzard games, downloads and updates.</value>
+  </data>
+  <data name="Process_chrome" xml:space="preserve">
+    <value>Google Chrome web browser. High memory use may be normal with many tabs.</value>
+  </data>
+  <data name="Process_csrss" xml:space="preserve">
+    <value>A critical Windows subsystem process required for user sessions.</value>
+  </data>
+  <data name="Process_discord" xml:space="preserve">
+    <value>Discord handles chats, calls and notifications in the background.</value>
+  </data>
+  <data name="Process_dwm" xml:space="preserve">
+    <value>Desktop Window Manager draws windows and visual effects.</value>
+  </data>
+  <data name="Process_epicgameslauncher" xml:space="preserve">
+    <value>Epic Games Launcher manages games, downloads and updates.</value>
+  </data>
+  <data name="Process_explorer" xml:space="preserve">
+    <value>Windows Explorer provides the desktop, taskbar and file windows.</value>
+  </data>
+  <data name="Process_firefox" xml:space="preserve">
+    <value>Mozilla Firefox web browser. It uses separate processes for stability.</value>
+  </data>
+  <data name="Process_lsass" xml:space="preserve">
+    <value>A critical Windows security process that manages sign-in and security policies.</value>
+  </data>
+  <data name="Process_msedge" xml:space="preserve">
+    <value>Microsoft Edge web browser. Multiple processes are normal for tabs and extensions.</value>
+  </data>
+  <data name="Process_msmpeng" xml:space="preserve">
+    <value>Microsoft Defender may use extra resources while scanning.</value>
+  </data>
+  <data name="Process_onedrive" xml:space="preserve">
+    <value>OneDrive synchronizes selected files with Microsoft cloud storage.</value>
+  </data>
+  <data name="Process_riotclientservices" xml:space="preserve">
+    <value>Riot Client launches and updates Riot games.</value>
+  </data>
+  <data name="Process_runtimebroker" xml:space="preserve">
+    <value>Runtime Broker manages permissions for Windows apps.</value>
+  </data>
+  <data name="Process_searchindexer" xml:space="preserve">
+    <value>Windows Search Indexer helps make file and Start searches faster.</value>
+  </data>
+  <data name="Process_services" xml:space="preserve">
+    <value>A critical Windows process that starts and manages system services.</value>
+  </data>
+  <data name="Process_shellexperiencehost" xml:space="preserve">
+    <value>Windows Shell Experience Host displays parts of the Windows interface.</value>
+  </data>
+  <data name="Process_spoolsv" xml:space="preserve">
+    <value>Windows Print Spooler manages print jobs and printers.</value>
+  </data>
+  <data name="Process_spotify" xml:space="preserve">
+    <value>Spotify plays music and may continue running for media controls.</value>
+  </data>
+  <data name="Process_startmenuexperiencehost" xml:space="preserve">
+    <value>Windows Start Menu Experience Host displays and manages the Start menu.</value>
+  </data>
+  <data name="Process_steam" xml:space="preserve">
+    <value>Steam manages games, downloads, updates and the game overlay.</value>
+  </data>
+  <data name="Process_svchost" xml:space="preserve">
+    <value>Windows Service Host runs background Windows services. Multiple instances are normal.</value>
+  </data>
+  <data name="Process_teams" xml:space="preserve">
+    <value>Microsoft Teams supports meetings, chat and notifications.</value>
+  </data>
+  <data name="Process_telegram" xml:space="preserve">
+    <value>Telegram supports messages, calls and background notifications.</value>
+  </data>
+  <data name="Process_winlogon" xml:space="preserve">
+    <value>A critical Windows process responsible for sign-in and secure desktop actions.</value>
+  </data>
+  <data name="Processes" xml:space="preserve">
+    <value>Processes</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>Processor usage</value>
+  </data>
+  <data name="Publisher" xml:space="preserve">
+    <value>Publisher</value>
+  </data>
+  <data name="Ready" xml:space="preserve">
+    <value>Analysis updated</value>
+  </data>
+  <data name="Recommendation" xml:space="preserve">
+    <value>Recommended action</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Refresh now</value>
+  </data>
+  <data name="RefreshInterval" xml:space="preserve">
+    <value>Refresh interval</value>
+  </data>
+  <data name="ReportCreated" xml:space="preserve">
+    <value>Report created:</value>
+  </data>
+  <data name="ReportIntro" xml:space="preserve">
+    <value>Reports are created locally and are never uploaded.</value>
+  </data>
+  <data name="Reports" xml:space="preserve">
+    <value>Reports</value>
+  </data>
+  <data name="ReportsDeleted" xml:space="preserve">
+    <value>Local reports deleted.</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Reset local data</value>
+  </data>
+  <data name="ResetFailed" xml:space="preserve">
+    <value>Local settings could not be reset.</value>
+  </data>
+  <data name="Review" xml:space="preserve">
+    <value>Review indicators</value>
+  </data>
+  <data name="ReviewFirst" xml:space="preserve">
+    <value>Unknown — review first</value>
+  </data>
+  <data name="ReviewNotice" xml:space="preserve">
+    <value>Review recommended does not mean this is malware. It means the process has local indicators worth checking.</value>
+  </data>
+  <data name="Reviewed" xml:space="preserve">
+    <value>Reviewed</value>
+  </data>
+  <data name="Safe" xml:space="preserve">
+    <value>Safe to close</value>
+  </data>
+  <data name="Safety" xml:space="preserve">
+    <value>Safety guidance</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save settings</value>
+  </data>
+  <data name="SaveFailed" xml:space="preserve">
+    <value>Local settings could not be saved.</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>Settings saved</value>
+  </data>
+  <data name="ScanFailed" xml:space="preserve">
+    <value>The analysis could not be completed.</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search by name, publisher or path</value>
+  </data>
+  <data name="SelectItem" xml:space="preserve">
+    <value>Select an item first.</value>
+  </data>
+  <data name="Sent" xml:space="preserve">
+    <value>Sent externally?</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="SettingsReset" xml:space="preserve">
+    <value>Local settings reset.</value>
+  </data>
+  <data name="Signature" xml:space="preserve">
+    <value>Digital signature</value>
+  </data>
+  <data name="Signed" xml:space="preserve">
+    <value>Digitally signed</value>
+  </data>
+  <data name="SimpleReport" xml:space="preserve">
+    <value>Simple user report</value>
+  </data>
+  <data name="SortCpu" xml:space="preserve">
+    <value>Processor usage</value>
+  </data>
+  <data name="SortMemory" xml:space="preserve">
+    <value>Memory usage</value>
+  </data>
+  <data name="SortName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="Start" xml:space="preserve">
+    <value>Start analysis</value>
+  </data>
+  <data name="Started" xml:space="preserve">
+    <value>Start time</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Startup review</value>
+  </data>
+  <data name="StartupImpact" xml:space="preserve">
+    <value>Startup impact summary</value>
+  </data>
+  <data name="StartupIntro" xml:space="preserve">
+    <value>Startup apps can make sign-in feel slower. TaskLens only explains them and never disables them automatically.</value>
+  </data>
+  <data name="StartupLocation" xml:space="preserve">
+    <value>Startup location</value>
+  </data>
+  <data name="Stored" xml:space="preserve">
+    <value>Stored?</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>System</value>
+  </data>
+  <data name="SystemTheme" xml:space="preserve">
+    <value>System</value>
+  </data>
+  <data name="Tagline" xml:space="preserve">
+    <value>Task Manager made understandable.</value>
+  </data>
+  <data name="Technical" xml:space="preserve">
+    <value>Show technical details</value>
+  </data>
+  <data name="TechnicalReport" xml:space="preserve">
+    <value>Technical report</value>
+  </data>
+  <data name="Telemetry" xml:space="preserve">
+    <value>Telemetry</value>
+  </data>
+  <data name="Theme" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="TopCpu" xml:space="preserve">
+    <value>Top processor consumers</value>
+  </data>
+  <data name="TopDisk" xml:space="preserve">
+    <value>Top disk consumers</value>
+  </data>
+  <data name="TopMemory" xml:space="preserve">
+    <value>Top memory consumers</value>
+  </data>
+  <data name="Unavailable" xml:space="preserve">
+    <value>Unavailable</value>
+  </data>
+  <data name="Unknown" xml:space="preserve">
+    <value>Unknown processes</value>
+  </data>
+  <data name="UnknownPublisher" xml:space="preserve">
+    <value>Unknown publisher</value>
+  </data>
+  <data name="Unsigned" xml:space="preserve">
+    <value>Unsigned</value>
+  </data>
+  <data name="UnsignedStatus" xml:space="preserve">
+    <value>Unsigned</value>
+  </data>
+  <data name="UnusualLocation" xml:space="preserve">
+    <value>Runs from a user-writable location</value>
+  </data>
+  <data name="Used" xml:space="preserve">
+    <value>Used?</value>
+  </data>
+  <data name="UserApps" xml:space="preserve">
+    <value>User apps</value>
+  </data>
+  <data name="UsuallySafe" xml:space="preserve">
+    <value>Usually safe, but may interrupt the app</value>
+  </data>
+  <data name="WelcomeText" xml:space="preserve">
+    <value>TaskLens helps you understand what is running on your PC, which apps use the most resources, and what may be worth reviewing.</value>
+  </data>
+  <data name="WhatChecked" xml:space="preserve">
+    <value>What is checked</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+</root>

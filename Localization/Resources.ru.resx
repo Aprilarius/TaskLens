@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>О TaskLens</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="Analyzing" xml:space="preserve">
+    <value>Локальный анализ компьютера…</value>
+  </data>
+  <data name="AnonymizeDefault" xml:space="preserve">
+    <value>Анонимизировать отчёты</value>
+  </data>
+  <data name="AnonymizedReport" xml:space="preserve">
+    <value>Анонимизированный отчёт</value>
+  </data>
+  <data name="Background" xml:space="preserve">
+    <value>Фоновые</value>
+  </data>
+  <data name="BrowserHistory" xml:space="preserve">
+    <value>История браузера</value>
+  </data>
+  <data name="Busy" xml:space="preserve">
+    <value>Высокая нагрузка</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>Категория</value>
+  </data>
+  <data name="Command" xml:space="preserve">
+    <value>Команда</value>
+  </data>
+  <data name="Copied" xml:space="preserve">
+    <value>Сведения о процессе скопированы.</value>
+  </data>
+  <data name="CopyDetails" xml:space="preserve">
+    <value>Копировать сведения</value>
+  </data>
+  <data name="CpuReason" xml:space="preserve">
+    <value>Процессор загружен. Самый активный процесс сейчас — {0}.</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Критический процесс Windows</value>
+  </data>
+  <data name="CriticalBlocked" xml:space="preserve">
+    <value>TaskLens не завершает критические процессы Windows.</value>
+  </data>
+  <data name="Csv" xml:space="preserve">
+    <value>Экспорт CSV</value>
+  </data>
+  <data name="Dark" xml:space="preserve">
+    <value>Тёмная</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Главная</value>
+  </data>
+  <data name="DataType" xml:space="preserve">
+    <value>Тип данных</value>
+  </data>
+  <data name="DeleteFailed" xml:space="preserve">
+    <value>Не удалось удалить некоторые локальные отчёты.</value>
+  </data>
+  <data name="DeleteReports" xml:space="preserve">
+    <value>Удалить локальные отчёты</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Подробнее</value>
+  </data>
+  <data name="Disk" xml:space="preserve">
+    <value>Активность диска</value>
+  </data>
+  <data name="EndFailed" xml:space="preserve">
+    <value>Не удалось завершить процесс. Возможно, он уже завершён или требуются права администратора.</value>
+  </data>
+  <data name="EndProcess" xml:space="preserve">
+    <value>Завершить процесс</value>
+  </data>
+  <data name="EndWarning" xml:space="preserve">
+    <value>Я понимаю, что приложение может закрыться, а несохранённые данные — потеряться.</value>
+  </data>
+  <data name="Explanation" xml:space="preserve">
+    <value>Что это?</value>
+  </data>
+  <data name="ExportFailed" xml:space="preserve">
+    <value>Не удалось создать отчёт.</value>
+  </data>
+  <data name="ExportPrivacy" xml:space="preserve">
+    <value>Сохранить заявление</value>
+  </data>
+  <data name="Generated" xml:space="preserve">
+    <value>Создан</value>
+  </data>
+  <data name="Glass" xml:space="preserve">
+    <value>Эффект стекла</value>
+  </data>
+  <data name="Growing" xml:space="preserve">
+    <value>Растущее потребление памяти</value>
+  </data>
+  <data name="Heavy" xml:space="preserve">
+    <value>Высокая нагрузка</value>
+  </data>
+  <data name="High" xml:space="preserve">
+    <value>Высокое</value>
+  </data>
+  <data name="HighUsage" xml:space="preserve">
+    <value>Высокое использование ресурсов</value>
+  </data>
+  <data name="Html" xml:space="preserve">
+    <value>Создать HTML</value>
+  </data>
+  <data name="Impact" xml:space="preserve">
+    <value>Оценка влияния</value>
+  </data>
+  <data name="Indicators" xml:space="preserve">
+    <value>Причины для проверки</value>
+  </data>
+  <data name="Insights" xml:space="preserve">
+    <value>Использование ресурсов</value>
+  </data>
+  <data name="Items" xml:space="preserve">
+    <value>элементов</value>
+  </data>
+  <data name="Json" xml:space="preserve">
+    <value>Экспорт JSON</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+  <data name="Light" xml:space="preserve">
+    <value>Светлая</value>
+  </data>
+  <data name="Limitations" xml:space="preserve">
+    <value>TaskLens не является антивирусом и не может гарантировать безопасность процесса. Результаты — локальная оценка на текущий момент.</value>
+  </data>
+  <data name="LimitationsTitle" xml:space="preserve">
+    <value>Ограничения</value>
+  </data>
+  <data name="LocalOnly" xml:space="preserve">
+    <value>Только локально</value>
+  </data>
+  <data name="LocalReportNote" xml:space="preserve">
+    <value>Локальный отчёт; данные никуда не передавались.</value>
+  </data>
+  <data name="LongRunning" xml:space="preserve">
+    <value>Долго работающие процессы</value>
+  </data>
+  <data name="Lookalike" xml:space="preserve">
+    <value>Имя похоже на Windows, но расположение необычное</value>
+  </data>
+  <data name="Low" xml:space="preserve">
+    <value>Низкое</value>
+  </data>
+  <data name="MainReason" xml:space="preserve">
+    <value>Почему компьютер может работать медленно</value>
+  </data>
+  <data name="MarkReviewed" xml:space="preserve">
+    <value>Отметить проверенным</value>
+  </data>
+  <data name="MarkedReviewed" xml:space="preserve">
+    <value>Элемент отмечен как проверенный.</value>
+  </data>
+  <data name="Medium" xml:space="preserve">
+    <value>Среднее</value>
+  </data>
+  <data name="Memory" xml:space="preserve">
+    <value>Использование памяти</value>
+  </data>
+  <data name="MemoryGrowth" xml:space="preserve">
+    <value>Возможный рост потребления памяти</value>
+  </data>
+  <data name="MemoryReason" xml:space="preserve">
+    <value>Память используется активно. Больше всего памяти сейчас использует {0}.</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Имя</value>
+  </data>
+  <data name="NeedsAttention" xml:space="preserve">
+    <value>Требует внимания</value>
+  </data>
+  <data name="NeedsReview" xml:space="preserve">
+    <value>Требуют проверки</value>
+  </data>
+  <data name="Network" xml:space="preserve">
+    <value>Активность сети</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>Данных пока нет. Сначала запустите анализ.</value>
+  </data>
+  <data name="NoIssue" xml:space="preserve">
+    <value>Заметных проблем с производительностью не обнаружено.</value>
+  </data>
+  <data name="NoReview" xml:space="preserve">
+    <value>Сейчас нет процессов, требующих проверки.</value>
+  </data>
+  <data name="Normal" xml:space="preserve">
+    <value>Нормально</value>
+  </data>
+  <data name="NotRecommended" xml:space="preserve">
+    <value>Закрывать не рекомендуется</value>
+  </data>
+  <data name="Offline" xml:space="preserve">
+    <value>Автономный режим активен. В TaskLens нет кода телеметрии или загрузки данных.</value>
+  </data>
+  <data name="OfflineLabel" xml:space="preserve">
+    <value>АВТОНОМНО</value>
+  </data>
+  <data name="OpenFailed" xml:space="preserve">
+    <value>Не удалось открыть выбранный раздел Windows.</value>
+  </data>
+  <data name="OpenLocation" xml:space="preserve">
+    <value>Открыть расположение</value>
+  </data>
+  <data name="OpenReportFolder" xml:space="preserve">
+    <value>Открыть папку отчётов</value>
+  </data>
+  <data name="OpenStartupSettings" xml:space="preserve">
+    <value>Открыть автозагрузку Windows</value>
+  </data>
+  <data name="OpenTaskManager" xml:space="preserve">
+    <value>Открыть Диспетчер задач</value>
+  </data>
+  <data name="Parent" xml:space="preserve">
+    <value>ID родительского процесса</value>
+  </data>
+  <data name="Passwords" xml:space="preserve">
+    <value>Пароли</value>
+  </data>
+  <data name="Path" xml:space="preserve">
+    <value>Путь к файлу</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>Состояние компьютера</value>
+  </data>
+  <data name="PersonalFiles" xml:space="preserve">
+    <value>Личные файлы</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Весь анализ выполняется локально. Данные о процессах не покидают это устройство.</value>
+  </data>
+  <data name="PrivacyCenter" xml:space="preserve">
+    <value>Конфиденциальность</value>
+  </data>
+  <data name="PrivacyDetails" xml:space="preserve">
+    <value>О конфиденциальности</value>
+  </data>
+  <data name="ProcessList" xml:space="preserve">
+    <value>Список процессов</value>
+  </data>
+  <data name="Process_Generic" xml:space="preserve">
+    <value>Этого процесса нет во встроенной справке. Для понимания проверьте издателя, расположение, подпись и использование ресурсов.</value>
+  </data>
+  <data name="Process_battle.net" xml:space="preserve">
+    <value>Battle.net управляет играми Blizzard, загрузками и обновлениями.</value>
+  </data>
+  <data name="Process_chrome" xml:space="preserve">
+    <value>Браузер Google Chrome. При большом числе вкладок высокое потребление памяти может быть нормальным.</value>
+  </data>
+  <data name="Process_csrss" xml:space="preserve">
+    <value>Критический системный процесс Windows, необходимый для сеанса пользователя.</value>
+  </data>
+  <data name="Process_discord" xml:space="preserve">
+    <value>Discord поддерживает чаты, звонки и уведомления в фоне.</value>
+  </data>
+  <data name="Process_dwm" xml:space="preserve">
+    <value>Диспетчер окон рабочего стола отображает окна и визуальные эффекты.</value>
+  </data>
+  <data name="Process_epicgameslauncher" xml:space="preserve">
+    <value>Epic Games Launcher управляет играми, загрузками и обновлениями.</value>
+  </data>
+  <data name="Process_explorer" xml:space="preserve">
+    <value>Проводник Windows показывает рабочий стол, панель задач и окна файлов.</value>
+  </data>
+  <data name="Process_firefox" xml:space="preserve">
+    <value>Браузер Mozilla Firefox использует отдельные процессы для устойчивой работы.</value>
+  </data>
+  <data name="Process_lsass" xml:space="preserve">
+    <value>Критический процесс безопасности Windows, управляющий входом и политиками безопасности.</value>
+  </data>
+  <data name="Process_msedge" xml:space="preserve">
+    <value>Браузер Microsoft Edge. Отдельные процессы для вкладок и расширений — это нормально.</value>
+  </data>
+  <data name="Process_msmpeng" xml:space="preserve">
+    <value>Microsoft Defender может временно использовать больше ресурсов во время проверки.</value>
+  </data>
+  <data name="Process_onedrive" xml:space="preserve">
+    <value>OneDrive синхронизирует выбранные файлы с облачным хранилищем Microsoft.</value>
+  </data>
+  <data name="Process_riotclientservices" xml:space="preserve">
+    <value>Riot Client запускает и обновляет игры Riot.</value>
+  </data>
+  <data name="Process_runtimebroker" xml:space="preserve">
+    <value>Runtime Broker управляет разрешениями приложений Windows.</value>
+  </data>
+  <data name="Process_searchindexer" xml:space="preserve">
+    <value>Индексатор Windows ускоряет поиск файлов и поиск в меню Пуск.</value>
+  </data>
+  <data name="Process_services" xml:space="preserve">
+    <value>Критический процесс Windows, запускающий системные службы.</value>
+  </data>
+  <data name="Process_shellexperiencehost" xml:space="preserve">
+    <value>Windows Shell Experience Host отображает элементы интерфейса Windows.</value>
+  </data>
+  <data name="Process_spoolsv" xml:space="preserve">
+    <value>Диспетчер печати Windows управляет принтерами и заданиями печати.</value>
+  </data>
+  <data name="Process_spotify" xml:space="preserve">
+    <value>Spotify воспроизводит музыку и может работать в фоне для управления воспроизведением.</value>
+  </data>
+  <data name="Process_startmenuexperiencehost" xml:space="preserve">
+    <value>Windows Start Menu Experience Host отображает меню Пуск и управляет им.</value>
+  </data>
+  <data name="Process_steam" xml:space="preserve">
+    <value>Steam управляет играми, загрузками, обновлениями и игровым оверлеем.</value>
+  </data>
+  <data name="Process_svchost" xml:space="preserve">
+    <value>Узел службы Windows запускает фоновые службы. Несколько таких процессов — это нормально.</value>
+  </data>
+  <data name="Process_teams" xml:space="preserve">
+    <value>Microsoft Teams обеспечивает встречи, чаты и уведомления.</value>
+  </data>
+  <data name="Process_telegram" xml:space="preserve">
+    <value>Telegram поддерживает сообщения, звонки и фоновые уведомления.</value>
+  </data>
+  <data name="Process_winlogon" xml:space="preserve">
+    <value>Критический процесс Windows, отвечающий за вход в систему и защищённый рабочий стол.</value>
+  </data>
+  <data name="Processes" xml:space="preserve">
+    <value>Процессы</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>Загрузка процессора</value>
+  </data>
+  <data name="Publisher" xml:space="preserve">
+    <value>Издатель</value>
+  </data>
+  <data name="Ready" xml:space="preserve">
+    <value>Анализ обновлён</value>
+  </data>
+  <data name="Recommendation" xml:space="preserve">
+    <value>Рекомендация</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Обновить</value>
+  </data>
+  <data name="RefreshInterval" xml:space="preserve">
+    <value>Интервал обновления</value>
+  </data>
+  <data name="ReportCreated" xml:space="preserve">
+    <value>Отчёт создан:</value>
+  </data>
+  <data name="ReportIntro" xml:space="preserve">
+    <value>Отчёты создаются локально и никуда не отправляются.</value>
+  </data>
+  <data name="Reports" xml:space="preserve">
+    <value>Отчёты</value>
+  </data>
+  <data name="ReportsDeleted" xml:space="preserve">
+    <value>Локальные отчёты удалены.</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Сбросить локальные данные</value>
+  </data>
+  <data name="ResetFailed" xml:space="preserve">
+    <value>Не удалось сбросить локальные настройки.</value>
+  </data>
+  <data name="Review" xml:space="preserve">
+    <value>Что стоит проверить</value>
+  </data>
+  <data name="ReviewFirst" xml:space="preserve">
+    <value>Неизвестно — сначала проверьте</value>
+  </data>
+  <data name="ReviewNotice" xml:space="preserve">
+    <value>Рекомендация проверить не означает, что найден вирус. Есть лишь локальные признаки, которые стоит изучить.</value>
+  </data>
+  <data name="Reviewed" xml:space="preserve">
+    <value>Проверено</value>
+  </data>
+  <data name="Safe" xml:space="preserve">
+    <value>Можно закрыть</value>
+  </data>
+  <data name="Safety" xml:space="preserve">
+    <value>Можно ли закрыть</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="SaveFailed" xml:space="preserve">
+    <value>Не удалось сохранить локальные настройки.</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>Настройки сохранены</value>
+  </data>
+  <data name="ScanFailed" xml:space="preserve">
+    <value>Не удалось завершить анализ.</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Поиск по имени, издателю или пути</value>
+  </data>
+  <data name="SelectItem" xml:space="preserve">
+    <value>Сначала выберите элемент.</value>
+  </data>
+  <data name="Sent" xml:space="preserve">
+    <value>Передаётся наружу?</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="SettingsReset" xml:space="preserve">
+    <value>Локальные настройки сброшены.</value>
+  </data>
+  <data name="Signature" xml:space="preserve">
+    <value>Цифровая подпись</value>
+  </data>
+  <data name="Signed" xml:space="preserve">
+    <value>Есть цифровая подпись</value>
+  </data>
+  <data name="SimpleReport" xml:space="preserve">
+    <value>Простой отчёт</value>
+  </data>
+  <data name="SortCpu" xml:space="preserve">
+    <value>Загрузка процессора</value>
+  </data>
+  <data name="SortMemory" xml:space="preserve">
+    <value>Использование памяти</value>
+  </data>
+  <data name="SortName" xml:space="preserve">
+    <value>Имя</value>
+  </data>
+  <data name="Start" xml:space="preserve">
+    <value>Начать анализ</value>
+  </data>
+  <data name="Started" xml:space="preserve">
+    <value>Время запуска</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Автозагрузка</value>
+  </data>
+  <data name="StartupImpact" xml:space="preserve">
+    <value>Влияние автозагрузки</value>
+  </data>
+  <data name="StartupIntro" xml:space="preserve">
+    <value>Программы в автозагрузке могут замедлять вход в систему. TaskLens только объясняет их и ничего не отключает автоматически.</value>
+  </data>
+  <data name="StartupLocation" xml:space="preserve">
+    <value>Источник автозагрузки</value>
+  </data>
+  <data name="Stored" xml:space="preserve">
+    <value>Хранится?</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>Системные</value>
+  </data>
+  <data name="SystemTheme" xml:space="preserve">
+    <value>Системная</value>
+  </data>
+  <data name="Tagline" xml:space="preserve">
+    <value>Диспетчер задач понятным языком.</value>
+  </data>
+  <data name="Technical" xml:space="preserve">
+    <value>Показывать технические данные</value>
+  </data>
+  <data name="TechnicalReport" xml:space="preserve">
+    <value>Технический отчёт</value>
+  </data>
+  <data name="Telemetry" xml:space="preserve">
+    <value>Телеметрия</value>
+  </data>
+  <data name="Theme" xml:space="preserve">
+    <value>Тема</value>
+  </data>
+  <data name="TopCpu" xml:space="preserve">
+    <value>Больше всего используют процессор</value>
+  </data>
+  <data name="TopDisk" xml:space="preserve">
+    <value>Больше всего используют диск</value>
+  </data>
+  <data name="TopMemory" xml:space="preserve">
+    <value>Больше всего используют память</value>
+  </data>
+  <data name="Unavailable" xml:space="preserve">
+    <value>Недоступно</value>
+  </data>
+  <data name="Unknown" xml:space="preserve">
+    <value>Неизвестные процессы</value>
+  </data>
+  <data name="UnknownPublisher" xml:space="preserve">
+    <value>Неизвестный издатель</value>
+  </data>
+  <data name="Unsigned" xml:space="preserve">
+    <value>Без подписи</value>
+  </data>
+  <data name="UnsignedStatus" xml:space="preserve">
+    <value>Нет цифровой подписи</value>
+  </data>
+  <data name="UnusualLocation" xml:space="preserve">
+    <value>Запущен из изменяемой пользователем папки</value>
+  </data>
+  <data name="Used" xml:space="preserve">
+    <value>Используется?</value>
+  </data>
+  <data name="UserApps" xml:space="preserve">
+    <value>Приложения</value>
+  </data>
+  <data name="UsuallySafe" xml:space="preserve">
+    <value>Обычно можно закрыть, но приложение прервёт работу</value>
+  </data>
+  <data name="WelcomeText" xml:space="preserve">
+    <value>TaskLens помогает понять, что работает на компьютере, какие приложения используют больше ресурсов и что стоит проверить.</value>
+  </data>
+  <data name="WhatChecked" xml:space="preserve">
+    <value>Что проверяется</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Да</value>
+  </data>
+</root>

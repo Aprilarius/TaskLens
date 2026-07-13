@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+dist/
+
+# User-specific IDE files
+.vs/
+*.user
+*.suo
+
+# Local diagnostics and generated reports
+*.log
+TaskLens-*.html
+TaskLens-*.json
+TaskLens-*.csv
+
+# Windows metadata
+Thumbs.db
+Desktop.ini

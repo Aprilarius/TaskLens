@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>TaskLens haqqında</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>Hamısı</value>
+  </data>
+  <data name="Analyzing" xml:space="preserve">
+    <value>Kompüter lokal analiz edilir…</value>
+  </data>
+  <data name="AnonymizeDefault" xml:space="preserve">
+    <value>Hesabatları anonimləşdir</value>
+  </data>
+  <data name="AnonymizedReport" xml:space="preserve">
+    <value>Anonim hesabat</value>
+  </data>
+  <data name="Background" xml:space="preserve">
+    <value>Fon</value>
+  </data>
+  <data name="BrowserHistory" xml:space="preserve">
+    <value>Brauzer tarixçəsi</value>
+  </data>
+  <data name="Busy" xml:space="preserve">
+    <value>Yüklənib</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Ləğv et</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>Kateqoriya</value>
+  </data>
+  <data name="Command" xml:space="preserve">
+    <value>Əmr</value>
+  </data>
+  <data name="Copied" xml:space="preserve">
+    <value>Proses məlumatları köçürüldü.</value>
+  </data>
+  <data name="CopyDetails" xml:space="preserve">
+    <value>Məlumatları köçür</value>
+  </data>
+  <data name="CpuReason" xml:space="preserve">
+    <value>Prosessor fəaliyyəti yüksəkdir. Hazırda ən aktiv proses {0}-dir.</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritik Windows prosesi</value>
+  </data>
+  <data name="CriticalBlocked" xml:space="preserve">
+    <value>TaskLens kritik Windows proseslərini bitirmir.</value>
+  </data>
+  <data name="Csv" xml:space="preserve">
+    <value>CSV ixrac et</value>
+  </data>
+  <data name="Dark" xml:space="preserve">
+    <value>Qaranlıq</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>İdarə paneli</value>
+  </data>
+  <data name="DataType" xml:space="preserve">
+    <value>Məlumat növü</value>
+  </data>
+  <data name="DeleteFailed" xml:space="preserve">
+    <value>Bəzi lokal hesabatları silmək mümkün olmadı.</value>
+  </data>
+  <data name="DeleteReports" xml:space="preserve">
+    <value>Lokal hesabatları sil</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Ətraflı</value>
+  </data>
+  <data name="Disk" xml:space="preserve">
+    <value>Disk fəaliyyəti</value>
+  </data>
+  <data name="EndFailed" xml:space="preserve">
+    <value>Prosesi bitirmək mümkün olmadı. Proses artıq bağlanmış ola bilər və ya administrator icazəsi tələb olunur.</value>
+  </data>
+  <data name="EndProcess" xml:space="preserve">
+    <value>Prosesi bitir</value>
+  </data>
+  <data name="EndWarning" xml:space="preserve">
+    <value>Tətbiqin bağlana və yadda saxlanmamış məlumatların itə biləcəyini anlayıram.</value>
+  </data>
+  <data name="Explanation" xml:space="preserve">
+    <value>Bu nədir?</value>
+  </data>
+  <data name="ExportFailed" xml:space="preserve">
+    <value>Hesabatı yaratmaq mümkün olmadı.</value>
+  </data>
+  <data name="ExportPrivacy" xml:space="preserve">
+    <value>Məxfilik bəyanatını saxla</value>
+  </data>
+  <data name="Generated" xml:space="preserve">
+    <value>Yaradılıb</value>
+  </data>
+  <data name="Glass" xml:space="preserve">
+    <value>Şüşə effekti</value>
+  </data>
+  <data name="Growing" xml:space="preserve">
+    <value>Artan yaddaş istifadəsi</value>
+  </data>
+  <data name="Heavy" xml:space="preserve">
+    <value>Yüksək istifadə</value>
+  </data>
+  <data name="High" xml:space="preserve">
+    <value>Yüksək</value>
+  </data>
+  <data name="HighUsage" xml:space="preserve">
+    <value>Yüksək resurs istifadəsi</value>
+  </data>
+  <data name="Html" xml:space="preserve">
+    <value>HTML yarat</value>
+  </data>
+  <data name="Impact" xml:space="preserve">
+    <value>Təxmini təsir</value>
+  </data>
+  <data name="Indicators" xml:space="preserve">
+    <value>Yoxlama göstəriciləri</value>
+  </data>
+  <data name="Insights" xml:space="preserve">
+    <value>Resurs icmalı</value>
+  </data>
+  <data name="Items" xml:space="preserve">
+    <value>element</value>
+  </data>
+  <data name="Json" xml:space="preserve">
+    <value>JSON ixrac et</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Dil</value>
+  </data>
+  <data name="Light" xml:space="preserve">
+    <value>İşıqlı</value>
+  </data>
+  <data name="Limitations" xml:space="preserve">
+    <value>TaskLens antivirus deyil və prosesin təhlükəsizliyinə zəmanət vermir. Nəticələr lokal və cari an üçün tövsiyədir.</value>
+  </data>
+  <data name="LimitationsTitle" xml:space="preserve">
+    <value>Məhdudiyyətlər</value>
+  </data>
+  <data name="LocalOnly" xml:space="preserve">
+    <value>Yalnız lokal</value>
+  </data>
+  <data name="LocalReportNote" xml:space="preserve">
+    <value>Lokal hesabatdır; heç bir məlumat ötürülməyib.</value>
+  </data>
+  <data name="LongRunning" xml:space="preserve">
+    <value>Uzun müddət işləyən proseslər</value>
+  </data>
+  <data name="Lookalike" xml:space="preserve">
+    <value>Windows adına bənzəyir, amma qeyri-adi yerdədir</value>
+  </data>
+  <data name="Low" xml:space="preserve">
+    <value>Aşağı</value>
+  </data>
+  <data name="MainReason" xml:space="preserve">
+    <value>Kompüterin yavaş işləməsinin əsas səbəbi</value>
+  </data>
+  <data name="MarkReviewed" xml:space="preserve">
+    <value>Yoxlanılıb kimi işarələ</value>
+  </data>
+  <data name="MarkedReviewed" xml:space="preserve">
+    <value>Element yoxlanılıb kimi işarələndi.</value>
+  </data>
+  <data name="Medium" xml:space="preserve">
+    <value>Orta</value>
+  </data>
+  <data name="Memory" xml:space="preserve">
+    <value>Yaddaş istifadəsi</value>
+  </data>
+  <data name="MemoryGrowth" xml:space="preserve">
+    <value>Mümkün yaddaş artımı göstəricisi</value>
+  </data>
+  <data name="MemoryReason" xml:space="preserve">
+    <value>Yaddaş istifadəsi yüksəkdir. Ən çox yaddaşı {0} istifadə edir.</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Ad</value>
+  </data>
+  <data name="NeedsAttention" xml:space="preserve">
+    <value>Diqqət tələb edir</value>
+  </data>
+  <data name="NeedsReview" xml:space="preserve">
+    <value>Yoxlanmalı proseslər</value>
+  </data>
+  <data name="Network" xml:space="preserve">
+    <value>Şəbəkə fəaliyyəti</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Xeyr</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>Hələ məlumat yoxdur. Əvvəlcə analizi başladın.</value>
+  </data>
+  <data name="NoIssue" xml:space="preserve">
+    <value>Əhəmiyyətli performans problemi aşkarlanmadı.</value>
+  </data>
+  <data name="NoReview" xml:space="preserve">
+    <value>Hazırda yoxlama tələb edən proses yoxdur.</value>
+  </data>
+  <data name="Normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="NotRecommended" xml:space="preserve">
+    <value>Məsləhət görülmür</value>
+  </data>
+  <data name="Offline" xml:space="preserve">
+    <value>Oflayn rejim aktivdir. TaskLens-də telemetriya və məlumat yükləmə kodu yoxdur.</value>
+  </data>
+  <data name="OfflineLabel" xml:space="preserve">
+    <value>OFLAYN</value>
+  </data>
+  <data name="OpenFailed" xml:space="preserve">
+    <value>Seçilmiş Windows bölməsini açmaq mümkün olmadı.</value>
+  </data>
+  <data name="OpenLocation" xml:space="preserve">
+    <value>Fayl yerini aç</value>
+  </data>
+  <data name="OpenReportFolder" xml:space="preserve">
+    <value>Hesabat qovluğunu aç</value>
+  </data>
+  <data name="OpenStartupSettings" xml:space="preserve">
+    <value>Windows başlanğıc tətbiqlərini aç</value>
+  </data>
+  <data name="OpenTaskManager" xml:space="preserve">
+    <value>Tapşırıq menecerini aç</value>
+  </data>
+  <data name="Parent" xml:space="preserve">
+    <value>Ana proses ID-si</value>
+  </data>
+  <data name="Passwords" xml:space="preserve">
+    <value>Parollar</value>
+  </data>
+  <data name="Path" xml:space="preserve">
+    <value>Fayl yolu</value>
+  </data>
+  <data name="Performance" xml:space="preserve">
+    <value>Kompüterin vəziyyəti</value>
+  </data>
+  <data name="PersonalFiles" xml:space="preserve">
+    <value>Şəxsi fayllar</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Bütün analiz lokal aparılır. Proses məlumatları bu cihazı tərk etmir.</value>
+  </data>
+  <data name="PrivacyCenter" xml:space="preserve">
+    <value>Məxfilik mərkəzi</value>
+  </data>
+  <data name="PrivacyDetails" xml:space="preserve">
+    <value>Məxfilik məlumatı</value>
+  </data>
+  <data name="ProcessList" xml:space="preserve">
+    <value>İşləyən proseslər</value>
+  </data>
+  <data name="Process_Generic" xml:space="preserve">
+    <value>Bu proses daxili məlumat bazasında yoxdur. Kontekst üçün istehsalçı, yol, imza və resurs istifadəsini yoxlayın.</value>
+  </data>
+  <data name="Process_battle.net" xml:space="preserve">
+    <value>Battle.net Blizzard oyunlarını, yükləmələri və yeniləmələri idarə edir.</value>
+  </data>
+  <data name="Process_chrome" xml:space="preserve">
+    <value>Google Chrome brauzeridir. Çox tab açıq olduqda yüksək yaddaş istifadəsi normal ola bilər.</value>
+  </data>
+  <data name="Process_csrss" xml:space="preserve">
+    <value>İstifadəçi sessiyası üçün vacib kritik Windows prosesidir.</value>
+  </data>
+  <data name="Process_discord" xml:space="preserve">
+    <value>Discord fon rejimində söhbətləri, zəngləri və bildirişləri işləyir.</value>
+  </data>
+  <data name="Process_dwm" xml:space="preserve">
+    <value>Desktop Window Manager pəncərələri və vizual effektləri göstərir.</value>
+  </data>
+  <data name="Process_epicgameslauncher" xml:space="preserve">
+    <value>Epic Games Launcher oyunları, yükləmələri və yeniləmələri idarə edir.</value>
+  </data>
+  <data name="Process_explorer" xml:space="preserve">
+    <value>Windows Explorer iş masasını, tapşırıq panelini və fayl pəncərələrini göstərir.</value>
+  </data>
+  <data name="Process_firefox" xml:space="preserve">
+    <value>Mozilla Firefox sabitlik üçün ayrı proseslərdən istifadə edir.</value>
+  </data>
+  <data name="Process_lsass" xml:space="preserve">
+    <value>Windows-a giriş və təhlükəsizlik qaydalarını idarə edən kritik sistem prosesidir.</value>
+  </data>
+  <data name="Process_msedge" xml:space="preserve">
+    <value>Microsoft Edge brauzeridir. Tab və əlavələr üçün bir neçə proses normaldır.</value>
+  </data>
+  <data name="Process_msmpeng" xml:space="preserve">
+    <value>Microsoft Defender yoxlama zamanı müvəqqəti olaraq daha çox resurs istifadə edə bilər.</value>
+  </data>
+  <data name="Process_onedrive" xml:space="preserve">
+    <value>OneDrive seçilmiş faylları Microsoft bulud yaddaşı ilə sinxronlaşdırır.</value>
+  </data>
+  <data name="Process_riotclientservices" xml:space="preserve">
+    <value>Riot Client Riot oyunlarını başladır və yeniləyir.</value>
+  </data>
+  <data name="Process_runtimebroker" xml:space="preserve">
+    <value>Runtime Broker Windows tətbiqlərinin icazələrini idarə edir.</value>
+  </data>
+  <data name="Process_searchindexer" xml:space="preserve">
+    <value>Windows axtarış indeksi fayl və Başlat axtarışını sürətləndirir.</value>
+  </data>
+  <data name="Process_services" xml:space="preserve">
+    <value>Sistem xidmətlərini başladan və idarə edən kritik Windows prosesidir.</value>
+  </data>
+  <data name="Process_shellexperiencehost" xml:space="preserve">
+    <value>Windows Shell Experience Host Windows interfeysinin hissələrini göstərir.</value>
+  </data>
+  <data name="Process_spoolsv" xml:space="preserve">
+    <value>Windows çap dispetçeri printerləri və çap tapşırıqlarını idarə edir.</value>
+  </data>
+  <data name="Process_spotify" xml:space="preserve">
+    <value>Spotify musiqi səsləndirir və media idarəsi üçün fonda işləyə bilər.</value>
+  </data>
+  <data name="Process_startmenuexperiencehost" xml:space="preserve">
+    <value>Windows Start Menu Experience Host Başlat menyusunu göstərir və idarə edir.</value>
+  </data>
+  <data name="Process_steam" xml:space="preserve">
+    <value>Steam oyunları, yükləmələri, yeniləmələri və oyun panelini idarə edir.</value>
+  </data>
+  <data name="Process_svchost" xml:space="preserve">
+    <value>Windows Service Host fon xidmətlərini işə salır. Bir neçə belə prosesin olması normaldır.</value>
+  </data>
+  <data name="Process_teams" xml:space="preserve">
+    <value>Microsoft Teams görüşləri, söhbətləri və bildirişləri təmin edir.</value>
+  </data>
+  <data name="Process_telegram" xml:space="preserve">
+    <value>Telegram mesajları, zəngləri və fon bildirişlərini təmin edir.</value>
+  </data>
+  <data name="Process_winlogon" xml:space="preserve">
+    <value>Giriş və təhlükəsiz iş masası əməliyyatlarına cavabdeh kritik Windows prosesidir.</value>
+  </data>
+  <data name="Processes" xml:space="preserve">
+    <value>Proseslər</value>
+  </data>
+  <data name="Processor" xml:space="preserve">
+    <value>Prosessor istifadəsi</value>
+  </data>
+  <data name="Publisher" xml:space="preserve">
+    <value>İstehsalçı</value>
+  </data>
+  <data name="Ready" xml:space="preserve">
+    <value>Analiz yeniləndi</value>
+  </data>
+  <data name="Recommendation" xml:space="preserve">
+    <value>Tövsiyə</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Yenilə</value>
+  </data>
+  <data name="RefreshInterval" xml:space="preserve">
+    <value>Yeniləmə intervalı</value>
+  </data>
+  <data name="ReportCreated" xml:space="preserve">
+    <value>Hesabat yaradıldı:</value>
+  </data>
+  <data name="ReportIntro" xml:space="preserve">
+    <value>Hesabatlar lokal yaradılır və heç yerə göndərilmir.</value>
+  </data>
+  <data name="Reports" xml:space="preserve">
+    <value>Hesabatlar</value>
+  </data>
+  <data name="ReportsDeleted" xml:space="preserve">
+    <value>Lokal hesabatlar silindi.</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Lokal məlumatları sıfırla</value>
+  </data>
+  <data name="ResetFailed" xml:space="preserve">
+    <value>Lokal parametrləri sıfırlamaq mümkün olmadı.</value>
+  </data>
+  <data name="Review" xml:space="preserve">
+    <value>Nəzərdən keçirmə</value>
+  </data>
+  <data name="ReviewFirst" xml:space="preserve">
+    <value>Naməlum — əvvəl yoxlayın</value>
+  </data>
+  <data name="ReviewNotice" xml:space="preserve">
+    <value>Yoxlama tövsiyəsi zərərli proqram tapıldığı demək deyil. Sadəcə nəzərdən keçirilməli lokal göstəricilər var.</value>
+  </data>
+  <data name="Reviewed" xml:space="preserve">
+    <value>Yoxlanılıb</value>
+  </data>
+  <data name="Safe" xml:space="preserve">
+    <value>Bağlamaq olar</value>
+  </data>
+  <data name="Safety" xml:space="preserve">
+    <value>Bağlama tövsiyəsi</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Yadda saxla</value>
+  </data>
+  <data name="SaveFailed" xml:space="preserve">
+    <value>Lokal parametrləri yadda saxlamaq mümkün olmadı.</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>Parametrlər yadda saxlanıldı</value>
+  </data>
+  <data name="ScanFailed" xml:space="preserve">
+    <value>Analizi tamamlamaq mümkün olmadı.</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Ad, istehsalçı və ya yol üzrə axtar</value>
+  </data>
+  <data name="SelectItem" xml:space="preserve">
+    <value>Əvvəlcə elementi seçin.</value>
+  </data>
+  <data name="Sent" xml:space="preserve">
+    <value>Xaricə göndərilir?</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Parametrlər</value>
+  </data>
+  <data name="SettingsReset" xml:space="preserve">
+    <value>Lokal parametrlər sıfırlandı.</value>
+  </data>
+  <data name="Signature" xml:space="preserve">
+    <value>Rəqəmsal imza</value>
+  </data>
+  <data name="Signed" xml:space="preserve">
+    <value>Rəqəmsal imza var</value>
+  </data>
+  <data name="SimpleReport" xml:space="preserve">
+    <value>Sadə hesabat</value>
+  </data>
+  <data name="SortCpu" xml:space="preserve">
+    <value>Prosessor istifadəsi</value>
+  </data>
+  <data name="SortMemory" xml:space="preserve">
+    <value>Yaddaş istifadəsi</value>
+  </data>
+  <data name="SortName" xml:space="preserve">
+    <value>Ad</value>
+  </data>
+  <data name="Start" xml:space="preserve">
+    <value>Analizə başla</value>
+  </data>
+  <data name="Started" xml:space="preserve">
+    <value>Başlama vaxtı</value>
+  </data>
+  <data name="Startup" xml:space="preserve">
+    <value>Başlanğıc tətbiqləri</value>
+  </data>
+  <data name="StartupImpact" xml:space="preserve">
+    <value>Başlanğıc yükü</value>
+  </data>
+  <data name="StartupIntro" xml:space="preserve">
+    <value>Başlanğıc tətbiqləri giriş prosesini yavaşıda bilər. TaskLens onları yalnız izah edir və avtomatik söndürmür.</value>
+  </data>
+  <data name="StartupLocation" xml:space="preserve">
+    <value>Başlanğıc mənbəyi</value>
+  </data>
+  <data name="Stored" xml:space="preserve">
+    <value>Saxlanılır?</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>Sistem</value>
+  </data>
+  <data name="SystemTheme" xml:space="preserve">
+    <value>Sistem</value>
+  </data>
+  <data name="Tagline" xml:space="preserve">
+    <value>Tapşırıq meneceri aydın dildə.</value>
+  </data>
+  <data name="Technical" xml:space="preserve">
+    <value>Texniki məlumatları göstər</value>
+  </data>
+  <data name="TechnicalReport" xml:space="preserve">
+    <value>Texniki hesabat</value>
+  </data>
+  <data name="Telemetry" xml:space="preserve">
+    <value>Telemetriya</value>
+  </data>
+  <data name="Theme" xml:space="preserve">
+    <value>Mövzu</value>
+  </data>
+  <data name="TopCpu" xml:space="preserve">
+    <value>Ən çox prosessor istifadə edənlər</value>
+  </data>
+  <data name="TopDisk" xml:space="preserve">
+    <value>Ən çox disk istifadə edənlər</value>
+  </data>
+  <data name="TopMemory" xml:space="preserve">
+    <value>Ən çox yaddaş istifadə edənlər</value>
+  </data>
+  <data name="Unavailable" xml:space="preserve">
+    <value>Əlçatan deyil</value>
+  </data>
+  <data name="Unknown" xml:space="preserve">
+    <value>Naməlum proseslər</value>
+  </data>
+  <data name="UnknownPublisher" xml:space="preserve">
+    <value>Naməlum istehsalçı</value>
+  </data>
+  <data name="Unsigned" xml:space="preserve">
+    <value>İmzasız</value>
+  </data>
+  <data name="UnsignedStatus" xml:space="preserve">
+    <value>İmzasız</value>
+  </data>
+  <data name="UnusualLocation" xml:space="preserve">
+    <value>İstifadəçinin dəyişə bildiyi qovluqdan işləyir</value>
+  </data>
+  <data name="Used" xml:space="preserve">
+    <value>İstifadə?</value>
+  </data>
+  <data name="UserApps" xml:space="preserve">
+    <value>Tətbiqlər</value>
+  </data>
+  <data name="UsuallySafe" xml:space="preserve">
+    <value>Adətən olar, amma tətbiqin işi dayana bilər</value>
+  </data>
+  <data name="WelcomeText" xml:space="preserve">
+    <value>TaskLens kompüterinizdə nəyin işlədiyini, hansı tətbiqlərin daha çox resurs istifadə etdiyini və nələri nəzərdən keçirməyin faydalı olduğunu anlamağa kömək edir.</value>
+  </data>
+  <data name="WhatChecked" xml:space="preserve">
+    <value>Nələr yoxlanılır</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Bəli</value>
+  </data>
+</root>
